@@ -46,10 +46,6 @@ key_b=val_b
 
 **Be advised，suffixes `__` in environment variable keys will be ignored, it's for avoiding conflicts**
 
-## Donation
-
-View https://guoyk.xyz/donation
-
 ## Credits
 
 GUO YANKE, MIT License
